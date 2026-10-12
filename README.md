@@ -2,6 +2,9 @@
 
 Full-stack app deployed across three cloud tiers.
 
+**Live frontend:** https://campuseats-beta.vercel.app  
+**Live API:** https://campuseats-api-2b5x.onrender.com/swagger (free tier, first request may take ~50 s to wake)
+
 | Tier | Folder | Host |
 |------|--------|------|
 | Frontend (React + Vite) | `campuseats-web/` | Vercel |
